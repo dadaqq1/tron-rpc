@@ -1,4 +1,4 @@
-module github.com/dadaqq1/tron-rpc/core
+module tron
 
 go 1.13
 
